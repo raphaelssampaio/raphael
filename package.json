@@ -1,8 +1,8 @@
 {
   "name": "personalportfolio",
-  "homepage": "https://github.com/raphaelssampaio/raphaelssampaio.github.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://raphaelssampaio.github.io/",
   "dependencies": {
     "jquery": "^3.2.1",
     "react": "^16.2.0",
