@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Raphael Sampaio",
+    "occupation":"Developer and QA Tester",
+    "description":"I work as both developer and QA tester. For development I use ReactJS/React Native and for QA testing I basically write scripts tests using Detox.",
+    "image":"profilepic.png",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Send me a message",
+    "email": "raphaelssampaio@gmail.com",
+    "phone": "+55 (85) 9.8216-7985",
+    "address":{
+      "street":"Rua Joaquim Lima 699, 402",
+      "city":"Fortaleza",
+      "state":"Ceará",
+      "zip": "60175-005",
+      "nationality": "Brazilian"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1a461hh4ZBzinPySUJRUJzmtuj7DI-Jv6/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/raphaelssampaio",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/raphasampaio0",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/raphael-ssampaio/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/raphaelssampaio/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/raphaelssampaio",
+        "className":"fa fa-github"
+      } 
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm basically a React Native developer who has knowledge in security and testing",
+    "education":[
+      {
+        "school":"Computer Science",
+        "degree":"Bacharelor degree",
+        "graduated":" Started in 2020",
+        "description":"Still in progress. Expected graduation in 2023"
+      },
+      {
+        "school":"Information Security",
+        "degree":"Post-graduation degree",
+        "graduated":" December 2018",
+        "description":"Post-graduation course where I earned knowledge in cyber security"
+      },
+      {
+        "school":"Systems Analysis and Development",
+        "degree":"Graduation degree",
+        "graduated":" December 2016",
+        "description":"Graduation course where I earned knowledge in development"
+      }
+
+    ],
+    "work":[
+      {
+        "company":"Popstand",
+        "title":"QA Tester and Mobile Developer ",
+        "years":"October 2019 - Present",
+        "description":"I started working on Popstand as Mobile developer in one project but later I went to QA position and I began to test several projects. Using detox to test React Native apps and still manually tests on React Web projects. "
+      },
+      {
+        "company":"Dell-LEAD",
+        "title":"React Native Developer",
+        "years":"July 2018 - July 2019",
+        "description":"Working on Dell Projects for their factory in Sao Paulo and others projects that involves education. I worked as a Security Analyst, as well, proposing security improvements in application development."
+      },
+      {
+        "company":"Dell-LEAD",
+        "title":" Information Security Analyst Internship",
+        "years":"May 2018 - July 2018",
+        "description":"Internship in Information Security area, serving as a Pentester and vulnerability analyst as well as secure development."
+      },
+      {
+        "company":"Iqnus Tecnologia",
+        "title":" Android Developer Internship",
+        "years":"October 2016 - December 2016",
+        "description":"Internship in Android (Java) development."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"60%"
+      },
+      {
+        "name":"React Native",
+        "level":"90%"
+      },
+      {
+        "name":"Detox",
+        "level":"70%"
+      },
+      {
+        "name":"SCRUM",
+        "level":"80%"
+      },
+      {
+        "name":"Firebase",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Aprendizado Acessível",
+        "category":"Education",
+        "image":"pic04.png",
+        "url":"https://apps.apple.com/br/app/aprendizado-acess%C3%ADvel-le-d/id1343900893"
+      },
+      {
+        "title":"SGME",
+        "category":"Education",
+        "image":"pic03.png",
+        "url":"https://apps.apple.com/br/app/sgme/id1454414886"
+      },
+      {
+        "title":"Chirp",
+        "category":"Crypto",
+        "image":"pic05.png",
+        "url":"https://chirp.la/"
+      },
+      {
+        "title":"Taco Maps",
+        "category":"Food",
+        "image":"logo-white.png",
+        "url":"https://www.tacomaps.com/"
+      },
+      {
+        "title":"Maia",
+        "category":"Mobile Aware Intermodal Assistant",
+        "image":"maia.jpg",
+        "url":"https://translate.google.com/translate?sl=pt&tl=en&u=https%3A%2F%2Fdelltechnologiestransforma.com.br%2Faplicativo-transformar-rotina-deficiencia-auditiva%2F"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Details matter, it’s worth waiting to get it right.",
+        "user":"Steve Jobs"
+      }
+    ]
+  }
+}
