@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://raphaelssampaio.github.io/raphaelssampaio.github.io",
+  "homepage": "http://raphaelssampaio.github.io/raphael",
   "dependencies": {
     "jquery": "^3.2.1",
     "react": "^16.2.0",
