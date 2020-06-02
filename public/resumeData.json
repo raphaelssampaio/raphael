@@ -127,31 +127,31 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Aprendizado Acessível",
+        "title": "Aprendizado Acessível (Developer)",
         "category": "Education",
         "image": "pic04.png",
         "url": "https://apps.apple.com/br/app/aprendizado-acess%C3%ADvel-le-d/id1343900893"
       },
       {
-        "title": "SGME",
+        "title": "SGME (Developer)",
         "category": "Education",
         "image": "pic03.png",
         "url": "https://apps.apple.com/br/app/sgme/id1454414886"
       },
       {
-        "title": "Chirp",
+        "title": "Chirp (QA Tester)",
         "category": "Crypto",
         "image": "pic05.png",
         "url": "https://chirp.la/"
       },
       {
-        "title": "Taco Maps",
+        "title": "Taco Maps (Developer and QA Tester)",
         "category": "Food",
         "image": "logo-white.png",
         "url": "https://www.tacomaps.com/"
       },
       {
-        "title": "MAIA",
+        "title": "MAIA (Developer)",
         "category": "Mobile Aware Intermodal Assistant",
         "image": "maia.jpg",
         "url": "https://translate.google.com/translate?sl=pt&tl=en&u=https%3A%2F%2Fdelltechnologiestransforma.com.br%2Faplicativo-transformar-rotina-deficiencia-auditiva%2F"
