@@ -2,7 +2,7 @@
   "main": {
     "name": "Raphael Sampaio",
     "occupation": "Developer and QA Tester",
-    "description": "I work as both developer and QA tester. For development I use ReactJS/React Native and for QA testing I basically write scripts tests using Detox.",
+    "description": "For development I use ReactJS/React Native and for QA testing I basically write Detox scripts.",
     "image": "profilepic.png",
     "bio": "I'm a mix of developer + security information guy + QA guy. I'm also a musician. I play guitar since I was 10 years old. My new passion is to play Chess. I'm still learning and my rating on blitz 5 min is 800+. I like challenges. So, challenge me =)",
     "contactmessage": "Send me a message",
